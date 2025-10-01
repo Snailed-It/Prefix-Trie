@@ -1,24 +1,6 @@
 {
-  "originHash" : "220f3f625ace7231b12ea6d45fc3063cb3e166c6f6e328f1c9cb59065f3303b7",
+  "originHash" : "9c84ab3a16babd206c82e28084960f84d84e53fcee324288e1c2a3817cc22b17",
   "pins" : [
-    {
-      "identity" : "messagepacker",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/hirotakan/MessagePacker",
-      "state" : {
-        "revision" : "4d8346c6bc579347e4df0429493760691c5aeca2",
-        "version" : "0.4.7"
-      }
-    },
-    {
-      "identity" : "swift-argument-parser",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/apple/swift-argument-parser",
-      "state" : {
-        "revision" : "309a47b2b1d9b5e991f36961c983ecec72275be3",
-        "version" : "1.6.1"
-      }
-    },
     {
       "identity" : "swift-collections",
       "kind" : "remoteSourceControl",
